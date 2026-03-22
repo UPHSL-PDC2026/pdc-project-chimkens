@@ -7,10 +7,18 @@ The dataset used in this project is the Global COVID-19 dataset containing more 
 ---
 
 ## Tools and Technologies Used
-- Tool / Technology 1
-- Tool / Technology 2
-- Tool / Technology 3
-- Tool / Technology 4
+* Programming Language: Python
+* Environment: Jupyter Notebook / Google Colab
+* Libraries Used:
+
+  * pandas – data processing
+  * numpy – data splitting
+  * multiprocessing – parallel processing
+  * time – execution time measurement
+* Dataset Source:
+
+  * Kaggle Global COVID-19 Dataset (CSV file with more than 50,000 rows)
+
 
 ---
 
